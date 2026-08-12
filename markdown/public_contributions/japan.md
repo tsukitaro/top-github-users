@@ -18,6 +18,20 @@ There are `845 users`  in Japan. You need at least `247 followers` to be on this
 		</td>
 	</tr>
 </table>
+<table>
+	<tr>
+		<td>
+			Don't forget to star ⭐ this repository
+		</td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>
+			Don't forget to star ⭐ this repository
+		</td>
+	</tr>
+</table>
 
 <table>
 	<tr>
